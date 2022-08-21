@@ -14,8 +14,8 @@ To run this project correctly , change the databaseit locally using npm:
 Connection conn = DriverManager.getConnection("jdbc:sqlite:C:\\Users\\Electro-Market.ma\\eclipse-workspace\\Ums\\yazid.db");
 ```
 ## General info
-A simple University Management System database  created With Java Swing , JDBC , Sqlite
-this project is part of my second year database project at Zhejiang university of technology 
+A simple University Management System database  created With Java Swing , JDBC , Sqlite.
+the project is part of my second year database project at Zhejiang university of technology 
 	
 ## Technologies
 Project is created with:
