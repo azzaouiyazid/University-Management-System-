@@ -1,10 +1,11 @@
 ## University-Management-System Database 
 
 ## Table of contents
-* [Setup](#setup)
+
 * [General info](#general-info)
+* [Setup](#setup)
 * [Technologies](#technologies)
-* [objectives](#objectives)
+* [Project objectives](#project-objectives)
 
 
 ## Setup
