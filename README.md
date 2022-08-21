@@ -8,6 +8,14 @@
 * [Technologies](#technologies)
 * [Project objectives](#project-objectives)
 
+## Database Model 
+
+* [Overview](#Overview)
+* [Full schema](#Full-schema)
+* [ER-Diagram](#ER-Diagram)
+
+
+
 
 
 ## General info
@@ -42,6 +50,14 @@ this project will give a better understanding about :
 * Creating the Application
 * Binding Controls to Values in the Table
 * To bind the checkboxes to their corresponding table elements
+
+## Overview
+
+## Full-schema
+
+## ER-Diagram
+
+
 
 
 
