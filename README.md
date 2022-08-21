@@ -4,6 +4,7 @@
 * [Setup](#setup)
 * [General info](#general-info)
 * [Technologies](#technologies)
+* [project objectives](#project objectives)
 * [Detailed](#E-R diagram)
 
 ## Setup
@@ -23,6 +24,8 @@ Project is created with:
 * Sqlite version: 3.35.3
 
 ## Detailed university schema
+
+## project objectives
 
 
 
