@@ -22,7 +22,7 @@ Project is created with:
 * Ipsum version: 2.33
 * Ament library version: 999
 
-##Detailed university schema
+## Detailed university schema
 
 
 
