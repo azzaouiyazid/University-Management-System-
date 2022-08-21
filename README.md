@@ -4,7 +4,7 @@
 * [Setup](#setup)
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [objectives](#project objectives)
+* [objectives](#objectives)
 
 
 ## Setup
@@ -23,7 +23,7 @@ Project was created with:
 * JSE syteme liberary version: J2SE-1.5
 * Sqlite version: 3.35.3
 
-## project objectives
+## objectives
 this project will give a better understanding about : 
 
 * Setting Up the Database
