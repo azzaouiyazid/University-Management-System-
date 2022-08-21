@@ -8,7 +8,7 @@
 
 
 ## Setup
-To run this project correctly , change the databaseit locally using npm:
+To run this project correctly , change the database location by modifying this line located in Sqlconnect.java :
 
 ```
 Connection conn = DriverManager.getConnection("jdbc:sqlite:C:\\Users\\Electro-Market.ma\\eclipse-workspace\\Ums\\yazid.db");
@@ -27,9 +27,9 @@ Project is created with:
 this project will give a better understanding about : 
 
 * Setting Up the Database
-* To manually register Java DB in the IDE
+* manually register Java DB in the IDE
 * Starting the Server and Creating a Database
-* To create the database
+* create the database
 * Connecting to the Database
 * Creating the Application
 * Binding Controls to Values in the Table
