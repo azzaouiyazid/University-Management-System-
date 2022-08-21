@@ -26,15 +26,16 @@ Project is created with:
 ## Detailed university schema
 
 ## project objectives
+this project will give a better understanding about : 
 
-*Setting Up the Database
-*To manually register Java DB in the IDE
-*Starting the Server and Creating a Database
-*To create the database
-*Connecting to the Database
-*Creating the Application
-*Binding Controls to Values in the Table
-*To bind the checkboxes to their corresponding table elements
+* Setting Up the Database
+* To manually register Java DB in the IDE
+* Starting the Server and Creating a Database
+* To create the database
+* Connecting to the Database
+* Creating the Application
+* Binding Controls to Values in the Table
+* To bind the checkboxes to their corresponding table elements
 
 
 
