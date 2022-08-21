@@ -7,7 +7,7 @@
 * [Detailed university schema](#Detailed university schema)
 
 ## Setup
-To run this project correctly , change the database it locally using npm:
+To run this project correctly , change the databaseit locally using npm:
 
 ```
 Connection conn = DriverManager.getConnection("jdbc:sqlite:C:\\Users\\Electro-Market.ma\\eclipse-workspace\\Ums\\yazid.db");
@@ -26,9 +26,9 @@ Project is created with:
 
 
 
+
 	
 
 
 
 
-![dashboard](https://user-images.githubusercontent.com/78693054/181719780-f7557659-58cc-43f0-bfb2-fb7606572467.png)
