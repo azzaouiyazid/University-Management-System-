@@ -1,23 +1,21 @@
 ## University-Management-System Database 
 
 ## Table of contents
-* [General info](#general-info)
 * [Setup](#setup)
+* [General info](#general-info)
 * [Technologies](#technologies)
 * [project objectives](#project objectives)
 * [Detailed](#E-R diagram)
 
-## General info
-A simple University Management System database  created With Java Swing , JDBC , Sqlite
-this project is part of my second year database project at Zhejiang university of technology 
-
 ## Setup
-To run this project correctly , change the database locatioon  locally using npm:
+To run this project correctly , change the databaseit locally using npm:
 
 ```
 Connection conn = DriverManager.getConnection("jdbc:sqlite:C:\\Users\\Electro-Market.ma\\eclipse-workspace\\Ums\\yazid.db");
 ```
-
+## General info
+A simple University Management System database  created With Java Swing , JDBC , Sqlite
+this project is part of my second year database project at Zhejiang university of technology 
 	
 ## Technologies
 Project is created with:
@@ -28,6 +26,16 @@ Project is created with:
 ## Detailed university schema
 
 ## project objectives
+
+*Setting Up the Database
+*To manually register Java DB in the IDE
+*Starting the Server and Creating a Database
+*To create the database
+*Connecting to the Database
+*Creating the Application
+*Binding Controls to Values in the Table
+*To bind the checkboxes to their corresponding table elements
+
 
 
 
