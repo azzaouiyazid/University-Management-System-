@@ -5,7 +5,7 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [project objectives](#project objectives)
-* [Detailed](#E-R diagram)
+
 
 ## Setup
 To run this project correctly , change the databaseit locally using npm:
@@ -22,8 +22,6 @@ Project is created with:
 * Sqlite JDBC version: 3.7.2
 * JSE syteme liberary version: J2SE-1.5
 * Sqlite version: 3.35.3
-
-## Detailed university schema
 
 ## project objectives
 this project will give a better understanding about : 
