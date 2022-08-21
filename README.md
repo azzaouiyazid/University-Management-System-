@@ -57,7 +57,7 @@ this project will give a better understanding about :
 ## Overview
 
 ## Full-schema
-(![Screenshot 2022-06-08 211649](https://user-images.githubusercontent.com/78693054/185799601-c9290873-3346-4a56-b32a-f98f84e9d628.png)
+
 
 ## ER-Diagram
 ![E-R diagram ums](https://user-images.githubusercontent.com/78693054/185799159-edb89ff1-a187-4ea8-86a9-5e7d606c08b9.png)
