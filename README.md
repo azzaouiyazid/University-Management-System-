@@ -13,6 +13,7 @@
 * [Overview](#Overview)
 * [Full schema](#Full-schema)
 * [ER-Diagram](#ER-Diagram)
+* [DDL](#DDL)
 
 
 
@@ -56,6 +57,8 @@ this project will give a better understanding about :
 ## Full-schema
 
 ## ER-Diagram
+
+## DDL
 
 
 
