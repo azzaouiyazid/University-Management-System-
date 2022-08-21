@@ -18,12 +18,12 @@ this project is part of my second year database project at Zhejiang university o
 	
 ## Technologies
 Project is created with:
-* Lorem version: 12.3
-* Ipsum version: 2.33
-* Ament library version: 999
+* Sqlite JDBC version: 3.7.2
+* JSE syteme liberary version: J2SE-1.5
+* Sqlite version: 3.35.3
 
 ## Detailed university schema
-f
+
 
 
 
