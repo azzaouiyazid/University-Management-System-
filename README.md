@@ -1,11 +1,19 @@
 ## University-Management-System Database 
 A simple University Management System database  created With Java Swing , JDBC 
-#this project is part of my second year database project at Zhejiang university of technology 
+this project is part of my second year database project at Zhejiang university of technology 
 ## Table of contents
+* [Setup](#setup)
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [Setup](#setup)
 
+## Setup
+To run this project correctly , install it locally using npm:
+
+```
+$ cd ../lorem
+$ npm install
+$ npm start
+```
 ## General info
 This project is simple Lorem ipsum dolor generator.
 	
@@ -15,14 +23,7 @@ Project is created with:
 * Ipsum version: 2.33
 * Ament library version: 999
 	
-## Setup
-To run this project, install it locally using npm:
 
-```
-$ cd ../lorem
-$ npm install
-$ npm start
-```
 
 
 
