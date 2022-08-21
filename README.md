@@ -4,7 +4,7 @@
 * [Setup](#setup)
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [E-R diagram](#Detailed university schema)
+* [Detailed](#dec)
 
 ## Setup
 To run this project correctly , change the databaseit locally using npm:
