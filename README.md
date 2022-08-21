@@ -24,7 +24,8 @@ A simple University Management System database  created With Java Swing , JDBC ,
 the project is part of my second year database project at Zhejiang university of technology 
 
 ## Screenshots 
-![dashboard](https://user-images.githubusercontent.com/78693054/185798825-a182c6b9-5421-4146-ab10-a71b4cc1a5a8.png)
+![dashboard](https://user-images.githubusercontent.com/78693054/185799118-d321867f-6ef6-4e5f-ac9e-7508422b990f.png)
+
 
 
 ## Setup
