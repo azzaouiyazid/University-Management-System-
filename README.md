@@ -57,6 +57,7 @@ this project will give a better understanding about :
 ## Overview
 
 ## Full-schema
+![Screenshot 2022-08-21 175123](https://user-images.githubusercontent.com/78693054/185801183-f06850db-3787-4460-8d5e-395509c26564.png)
 
 
 ## ER-Diagram
