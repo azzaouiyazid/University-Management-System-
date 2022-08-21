@@ -1,27 +1,31 @@
 ## University-Management-System Database 
-A simple University Management System database  created With Java Swing , JDBC 
-this project is part of my second year database project at Zhejiang university of technology 
+
 ## Table of contents
 * [Setup](#setup)
 * [General info](#general-info)
 * [Technologies](#technologies)
+* [Detailed university schema](#Detailed university schema)
 
 ## Setup
-To run this project correctly , install it locally using npm:
+To run this project correctly , change the database it locally using npm:
 
 ```
-$ cd ../lorem
-$ npm install
-$ npm start
+Connection conn = DriverManager.getConnection("jdbc:sqlite:C:\\Users\\Electro-Market.ma\\eclipse-workspace\\Ums\\yazid.db");
 ```
 ## General info
-This project is simple Lorem ipsum dolor generator.
+A simple University Management System database  created With Java Swing , JDBC , Sqlite
+this project is part of my second year database project at Zhejiang university of technology 
 	
 ## Technologies
 Project is created with:
 * Lorem version: 12.3
 * Ipsum version: 2.33
 * Ament library version: 999
+
+##Detailed university schema
+
+
+
 	
 
 
