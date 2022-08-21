@@ -18,7 +18,7 @@ A simple University Management System database  created With Java Swing , JDBC ,
 the project is part of my second year database project at Zhejiang university of technology 
 	
 ## Technologies
-Project is created with:
+Project was created with:
 * Sqlite JDBC version: 3.7.2
 * JSE syteme liberary version: J2SE-1.5
 * Sqlite version: 3.35.3
