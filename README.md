@@ -3,20 +3,27 @@
 ## Table of contents
 
 * [General info](#general-info)
+* [Screenshots](#screenshots)
 * [Setup](#setup)
 * [Technologies](#technologies)
 * [Project objectives](#project-objectives)
 
 
+
+## General info
+A simple University Management System database  created With Java Swing , JDBC , Sqlite.
+the project is part of my second year database project at Zhejiang university of technology 
+
+## Screenshots 
+
+
 ## Setup
 To run this project correctly , change the database location by modifying this line located in Sqlconnect.java :
+![jdbc connection](https://user-images.githubusercontent.com/78693054/185797470-4de84542-0be3-45c0-ae0d-d8ae73ddf18d.png)
 
 ```
 Connection conn = DriverManager.getConnection("jdbc:sqlite:C:\\Users\\Electro-Market.ma\\eclipse-workspace\\Ums\\yazid.db");
 ```
-## General info
-A simple University Management System database  created With Java Swing , JDBC , Sqlite.
-the project is part of my second year database project at Zhejiang university of technology 
 	
 ## Technologies
 Project was created with:
@@ -24,7 +31,7 @@ Project was created with:
 * JSE syteme liberary version: J2SE-1.5
 * Sqlite version: 3.35.3
 
-## objectives
+## Project objectives
 this project will give a better understanding about : 
 
 * Setting Up the Database
