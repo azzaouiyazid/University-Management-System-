@@ -63,8 +63,6 @@ this project will give a better understanding about :
 ## ER-Diagram
 ![E-R diagram ums](https://user-images.githubusercontent.com/78693054/185799159-edb89ff1-a187-4ea8-86a9-5e7d606c08b9.png)
 
-## DDL
-
 
 
 
