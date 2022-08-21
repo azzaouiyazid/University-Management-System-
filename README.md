@@ -4,7 +4,7 @@
 * [Setup](#setup)
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [project objectives](#project objectives)
+* [objectives](#objectives)
 
 
 ## Setup
